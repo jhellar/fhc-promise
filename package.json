@@ -1,0 +1,19 @@
+{
+  "name": "fhc-promise",
+  "version": "1.0.0",
+  "description": "Promises wrapper for fh-fhc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fh-fhc": "http://npm.skunkhenry.com/fh-fhc/-/fh-fhc-2.18.0-546.tgz"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhellar/fhc-promise.git"
+  }
+}
