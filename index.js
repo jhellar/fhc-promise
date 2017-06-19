@@ -7,5 +7,7 @@ module.exports = {
   services : require('./lib/services'),
   app : require('./lib/app'),
   call : require('./lib/call'),
-  connections: require('./lib/connections')
+  connections: require('./lib/connections'),
+  init: require('./lib/init'),
+  fhc: require('fh-fhc')
 };
