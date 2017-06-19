@@ -1,6 +1,6 @@
 {
   "name": "fhc-promise",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Promises wrapper for fh-fhc.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fh-fhc": "http://npm.skunkhenry.com/fh-fhc/-/fh-fhc-2.18.0-546.tgz",
+    "mute": "^2.0.6",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
