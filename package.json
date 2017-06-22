@@ -1,6 +1,6 @@
 {
   "name": "fhc-promise",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Promises wrapper for fh-fhc.",
   "main": "index.js",
   "scripts": {
